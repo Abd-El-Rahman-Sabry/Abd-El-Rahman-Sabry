@@ -1,4 +1,4 @@
-# Sabry's GitHub Profile
+# Hi there it's Sabry 👋
 
 Welcome to my GitHub profile! I'm **Sabry**, a passionate **Hardware Verification Engineer** and **IC Design Enthusiast** with a strong passion for **Electronic Design Automation (EDA)**. Below you'll find more about me, my skills, and the exciting projects I’m working on.
 
@@ -14,7 +14,7 @@ One of my major accomplishments is the development of **ART (Automated RTL and T
 
 ## 🎥 ART Tool Walkthrough
 
-Here’s a walkthrough video of my **ART Tool**, which demonstrates its key features:
+Here’s a walkthrough video of the **ART Tool**, which demonstrates its key features:
 
 [![ART Tool Walkthrough](https://user-images.githubusercontent.com/102327986/194791576-57d95e86-dc7b-44a4-b020-061ec1180185.mp4)](https://user-images.githubusercontent.com/102327986/194791576-57d95e86-dc7b-44a4-b020-061ec1180185.mp4)
 
