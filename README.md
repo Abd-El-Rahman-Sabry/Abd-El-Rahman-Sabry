@@ -52,9 +52,8 @@ I am currently a **Junior Engineer** in **Digital Verification** at **Si-Vision*
 
 ## 🌍 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](#)
-- Twitter: [Your Twitter Profile](#)
-- Email: [Your Email](#)
+- LinkedIn: [Abd-El-Rahman Sabry](https://www.linkedin.com/in/abd-el-rahman-sabry-1025471b6/)
+- X : [Abd El Rahman Sabry](https://x.com/?AERSabry)
 
 ---
 
