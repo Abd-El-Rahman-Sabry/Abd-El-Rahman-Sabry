@@ -10,7 +10,7 @@ I’m a recent graduate, currently working as a Junior Engineer in Digital Verif
 
 I am also enthusiastic about developing tools for hardware design and verification. Currently, I’m working on a project to build an **education tool for an ASIC trainer** that visualizes detailed routing in the digital ASIC flow, creating an interactive experience for learning.
 
-https://user-images.githubusercontent.com/102327986/191864431-2454dd88-1ca7-49f0-849b-2cd6e63b3c0d.mp4
+https://user-images.githubusercontent.com/102327986/194791576-57d95e86-dc7b-44a4-b020-061ec1180185.mp4
 
 
 ---
